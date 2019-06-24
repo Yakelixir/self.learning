@@ -1,6 +1,6 @@
 # self.learning
-My python topics that I have tackled or am working on
-Most of the list goes in credit here to David Beasley and his class
+# My python topics that I have tackled or am working on.
+# Most of the list goes in credit here to David Beasley and his class
 
 Core Topics
 Although the stated goal is to produce a working implementation of the Raft algorithm, the ultimate purpose of the course is cover important topics from concurrency and distributed computing in a practical setting. Topics will include:
